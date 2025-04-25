@@ -5,7 +5,7 @@ I specialize in JS/Web Development, e.g.,
 -  Web Security
 
 ## Tech Stack
--  Languages: JavaScript (Node.js, ES6+), TypeScript
+-  Languages: JavaScript (Node.js, ES6+), TypeScript, C#
 -  Backend: Express.js, Fastify, MongoDB, PostgreSQL
 -  Frontend: React.js, Next.js, TailwindCSS
 -  Security: OWASP Best Practices, API Security, Authentication & Authorization (JWT, OAuth)
